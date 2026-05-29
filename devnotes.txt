@@ -1,9 +1,8 @@
-temporary notes
+internal notes:
 
-mail: omark.ops
+user: omark.ops
 pass: qstn0_archive_2024
 
-FLAG:
-0xSecHead{history_never_forgets}
+mail endpoint: mail.html
 
-never reuse this password again.
+do not reuse credentials again
