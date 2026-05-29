@@ -1,0 +1,9 @@
+temporary notes
+
+mail: omark.ops
+pass: qstn0_archive_2024
+
+FLAG:
+0xSecHead{history_never_forgets}
+
+never reuse this password again.
